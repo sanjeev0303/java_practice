@@ -1,3 +1,5 @@
+// multiplication table of the given number
+
 import java.util.*;
 public class MultiplicationTable {
 
